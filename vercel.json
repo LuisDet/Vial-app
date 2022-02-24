@@ -5,7 +5,7 @@
       "use": "@nuxtjs/vercel-builder",
       "config": {},
       "functions": {
-    "pages/api/**": {
+    "api/**": {
       "excludeFiles": "{assets,public,.next,pages,images,_next,gen,components,layouts}/**"
     }
   },
