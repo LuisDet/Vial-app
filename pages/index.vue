@@ -120,7 +120,7 @@
     <section>
       <div class="subscribe-container">
         <div class="subscribe-image">
-          <img src="~/assets/img/envelop.svg" alt="" />
+          <img src="~/assets/img/Envelop.svg" alt="" />
         </div>
         <div class="subscribe-content">
           <BaseTitle class="title t--blue">¡SUSCRÍBETE!</BaseTitle>
