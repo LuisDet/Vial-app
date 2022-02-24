@@ -6,7 +6,7 @@
       "config": {},
       "functions": {
     "pages/api/**": {
-      "excludeFiles": "{assets.public,.next,pages,images,_next,gen}/**"
+      "excludeFiles": "{assets,public,.next,pages,images,_next,gen}/**"
     }
   },
     }
