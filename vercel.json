@@ -12,8 +12,8 @@
     }
   ],
     "functions": {
-    "api/**: {
-      "excludeFiles": "{+(.now|.next|_next|node_modules|public|assets|components|pages|layouts|store)/**,yarn.lock,README.md,package-json.lock}"
+    "api/**": {
+      "excludeFiles": "{+(.now|.next|_next|node_modules|public|assets|components|pages|layouts|store)/**,yarn.lock,README.md,package-lock.json}"
     }
   }
 }
